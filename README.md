@@ -1,74 +1,88 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Chauhan</h1>
+<h3 align="center">Senior Software Engineer · Backend & Distributed Systems · Remote-Ready</h3>
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/bhavesh029?style=social" alt="Followers">
-  <img src="https://img.shields.io/badge/Backend%20Developer-%E2%9A%A1%20Node.js%20|%20TypeScript%20|%20PostgreSQL-blue" alt="Backend Developer">
-  <img src="https://img.shields.io/badge/-Gym%20Enthusiast-%23f34f29" alt="Gym Enthusiast">
-  <img src="https://img.shields.io/badge/-Tech%20Explorer-%2300a8e8" alt="Tech Explorer">
+  <img src="https://img.shields.io/badge/4%2B%20Years%20Experience-Backend%20%26%20Distributed%20Systems-blue" alt="Experience">
+  <img src="https://img.shields.io/badge/-Open%20to%20Remote%20Roles-success" alt="Open to Remote">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80%" alt="Welcome Banner">
+  <a href="https://www.linkedin.com/in/bhavesh029/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://bhaveshchauhan.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:chouhanbhavesh9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm Bhavesh Chauhan, a passionate **Backend Developer** with over 2 years of professional experience. I specialize in creating scalable, distributed systems using **Node.js**, **TypeScript**, and **PostgreSQL**. My journey includes contributing to cutting-edge features for **EdTech platforms** and optimizing system performance through **containerized applications (Docker)** and **query optimization**.
+I'm a backend-focused **Senior Software Engineer** with 4+ years of experience building cloud-native microservices, event-driven systems, and scalable APIs across **healthcare, edtech, and logistics** domains. I currently lead a team of 4 engineers at **HabileLabs**, working on a US healthcare client platform, and I'm building **Akira**, an AI-powered financial operations SaaS, as a solo founder on the side.
 
-🔧 **Current Role**: Backend Engineer II at **Newton Classroom**  
-🛠 **Past Experience**: Developer at **Trigsy Technologies**  
-
-### 🌟 Achievements:
-- Delivered **transportation and payroll modules**, improving operational efficiency by 30%.
-- Developed advanced features like **Excel report generation** and **bulk uploads**, reducing manual effort by 20%.
-- Consistently mentor and support junior developers in collaborative environments.
-
-### 📘 Currently Learning:
-- 🛠 **Frameworks**: Exploring **Nest.js** for backend development and **React** for frontend.
-- 🤖 **AI & ML**: Diving into Artificial Intelligence and Machine Learning to understand modern tech landscapes.
-- 🔍 **DSA & System Design**: Practicing **Data Structures and Algorithms (DSA)** and building knowledge in **System Design** for scalable applications.
+- 🔭 Currently leading backend architecture for a US healthcare platform at **HabileLabs**
+- 🧠 Building **Akira** — an AI-powered bank statement extraction & financial analytics platform
+- ⚙️ Deep experience with **Node.js, NestJS, TypeScript, PostgreSQL, Redis, Kafka, and AWS**
+- 🤖 Exploring **LLM integrations, RAG, and pgvector** for production AI features
+- 📈 Actively studying **system design** — load balancing, consistent hashing, distributed systems at depth
+- 🌱 Vegetarian, Jaipur-based, originally from Bikaner, Rajasthan
 
 ---
 
 ## 💻 Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+<p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white" alt="Nest.js">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
+  <br/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white" alt="Kafka">
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase">
+  <br/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-CI%2FCD-2E8B57?logo=git&logoColor=white" alt="CI/CD">
-  <img src="https://img.shields.io/badge/-Excel.js-217346?logo=microsoft-excel&logoColor=white" alt="Excel.js">
-  <img src="https://img.shields.io/badge/-System%20Design-FF5722?logoColor=white" alt="System Design">
-</div>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/-Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white" alt="Gemini">
+</p>
 
 ---
 
-## 🛠️ Key Projects
+## 🧑‍💻 Experience
 
-### 🚗 **Transportation Module**
-- Built features for enhanced transport management:
-  - Parent-requested transport and automated route assignment.
-  - Bulk uploads for routes and stops to save admin effort.
-  - Transparent student usage reports, saving 15+ admin hours weekly.
+**Senior Software Engineer · HabileLabs** — *Jan 2026 – Present*
+Leading a team of 4 engineers on a US healthcare client platform (Node.js, Next.js, PostgreSQL, Payload CMS). Resolved a critical security vulnerability within a day of joining, took full codebase ownership after the US team transitioned off, and streamlined CI with pre-push hooks for TypeScript/ESLint/build checks.
 
-### 💰 **Payroll Module**
-- Designed and implemented salary disbursal flows:
-  - One-time earnings, advances, and TDS exemption management.
-  - Bulk upload of salary structures for seamless payroll processing.
-  - Enhanced admin usability, reducing manual work by 20%.
+**Freelance Software Engineer · Independent Contract** — *Apr 2025 – Dec 2025*
+Delivered a full internal operations dashboard for a manufacturing client — inventory tracking, RBAC, and automated reporting — end-to-end from requirements to deployment (React, Node.js, NestJS, Supabase, Vercel).
+
+**Backend Engineer II · Newton Classroom** — *Nov 2023 – Apr 2025*
+Built a Transport System serving 3,000+ students, cut SQL report generation time by 23% via query optimization, migrated scheduled tasks to AWS Lambda for a 25% compute cost reduction, and built a reusable Excel.js reporting utility.
+
+**Software Engineer · Trigsy Technologies** — *Jun 2022 – Nov 2023*
+Optimized a PostGIS-based location search API, improving query performance by 35%, and implemented secure phone-based auth with two-way number masking.
+
+**Backend Engineer Intern · YAV Technology** — *Jan 2021 – Mar 2022*
+Built APIs for an e-learning platform supporting 5,000+ active users, including secure payment integration.
 
 ---
 
-## 🌟 Hobbies
+## 🛠️ Featured Project
 
-- 🏋️ **Gym Enthusiast**: Keeping fit and focused with regular workouts.
-- 🧠 **Problem Solver**: Enjoy solving **DSA challenges** on LeetCode.
-- 🎮 **Gaming**: Dive into immersive games during downtime.
-- 📸 **Instagram Hobbyist**: Share snippets of my journey. [_Follow me here_](https://www.instagram.com/_bhavesh_029/)
+### 🧾 [Akira](https://github.com/bhavesh029) — Intelligent Financial Operations Platform
+*Solo Founder · NestJS, React 19, Supabase (PostgreSQL + pgvector), Google Gemini 2.5*
+
+An AI-powered SaaS that extracts structured transaction data from bank statements — including scanned and password-protected PDFs — using Gemini 2.5 Flash and Vision multimodal models.
+
+- Unified PostgreSQL + pgvector schema storing relational data and 768-dim embeddings for future RAG support
+- Full AI analytics dashboard: cashflow trends, expense categorization, anomaly detection, recurring subscription tracking
+- DPDP-compliant data deletion via cascading deletes at the schema level
+- Production-grade setup with CI/CD, environment-separated deployments, and structured logging
 
 ---
 
@@ -83,23 +97,9 @@ I'm Bhavesh Chauhan, a passionate **Backend Developer** with over 2 years of pro
 
 ## 📫 Connect with Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bhavesh029/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/bhavesh029" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.instagram.com/_bhavesh_029/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:bhavesh.chauhan@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
-
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50%" alt="Thank You GIF">
+  <a href="https://www.linkedin.com/in/bhavesh029/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/bhavesh029" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://bhaveshchauhan.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:chouhanbhavesh9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
