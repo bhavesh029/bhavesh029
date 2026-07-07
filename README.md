@@ -89,8 +89,8 @@ An AI-powered SaaS that extracts structured transaction data from bank statement
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavesh029&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh029&layout=compact&theme=radical" alt="Most Used Languages">
+  <img src="https://github-stats-extended.vercel.app/api?username=bhavesh029&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhavesh029&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
 ---
